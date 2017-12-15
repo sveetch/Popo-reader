@@ -1,4 +1,4 @@
-.. _psd-tools: https://github.com/kyamagu/psd-tools2
+.. _psd-tools2: https://github.com/kyamagu/psd-tools2
 
 Popo-reader
 ===========

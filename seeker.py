@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
     if os.path.exists(args.filepath):
         print("Opening file:", args.filepath)
-        psd = PSDImage.load('V3-PAGEINTERNE1-C2N-CNRS.psd')
+        psd = PSDImage.load(args.filepath)
         seek_layers(psd.layers)
 
         datas = {
